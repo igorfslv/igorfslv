@@ -9,8 +9,8 @@
 
 <h3 align="left">Status do Git:</h3>
 <div align=left>
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=igorfslv&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github" alt="igorfslv github Status" />
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorfslv&show_icons=true&theme=transparent&locale=pt-br" alt="igorfslv github Status" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=igorfslv&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github" alt="igorfslv github Status" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorfslv&show_icons=true&theme=transparent&locale=pt-br" alt="igorfslv github Status" />
 </div>
 <div align="left">
 <img src= "https://komarev.com/ghpvc/?username=igorfslv&label=Profile%20views&color=0e75b6&style=flat" alt="igorfslv" />
