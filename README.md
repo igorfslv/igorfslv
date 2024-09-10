@@ -1,10 +1,10 @@
 # Olá, me chamo Igor Felipe da Silva👋
 ### Pretendo me tornar um programador backend 🚀
 
-###### Atualmente estou finalizando a minha graduação em tecnologia no curso   
-###### Análise e desenvovlimento de sistemas onde desenvovli projetos em Java com aplicações em Web.👾
+Atualmente estou finalizando a minha graduação em tecnologia no curso   
+Análise e desenvovlimento de sistemas onde desenvolvi projetos em __Java__ com aplicações em __Web__.👾
 
-###### Ultimamente tenho estudado C# e .Net através de bootcamps.
+Ultimamente tenho estudado __C#__ e __.Net__ através de bootcamps.
 
 __Meu perfil na plataforma [DIO](https://www.dio.me/users/igorf_slv)__
 
