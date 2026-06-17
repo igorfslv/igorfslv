@@ -1,10 +1,8 @@
 # Olá, me chamo Igor Felipe da Silva👋
 
-### 🚀 Desenvolvedor Java Júnior formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC.
-
+🚀 Desenvolvedor Java Júnior formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC.
 Tenho experiência prática com Java, Spring Boot, MySQL, APIs REST, JPA/Hibernate e desenvolvimento de aplicações web.
-
-Atualmente desenvolvo um sistema de gestão para autoescolas e continuo aprimorando meus conhecimentos em desenvolvimento Back-end e computação em nuvem..👾
+Atualmente desenvolvo um sistema de gestão para autoescolas e continuo aprimorando meus conhecimentos em desenvolvimento Back-end e computação em nuvem. 👾
 
 __Meu perfil na plataforma [DIO](https://www.dio.me/users/igorf_slv)__
 
